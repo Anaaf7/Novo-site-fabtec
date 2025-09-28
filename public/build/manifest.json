@@ -1,11 +1,23 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-HWlFZfeI.css",
+    "file": "assets/app-DS_b50aj.css",
     "src": "resources/css/app.css",
     "isEntry": true,
     "names": [
       "app.css"
     ]
+  },
+  "resources/fonts/inconsolata.ttf": {
+    "file": "assets/inconsolata-uksdTzU6.ttf",
+    "src": "resources/fonts/inconsolata.ttf"
+  },
+  "resources/fonts/orbitron.ttf": {
+    "file": "assets/orbitron-BA3qQ7VI.ttf",
+    "src": "resources/fonts/orbitron.ttf"
+  },
+  "resources/fonts/raveo.otf": {
+    "file": "assets/raveo-CT6QjPhN.otf",
+    "src": "resources/fonts/raveo.otf"
   },
   "resources/js/app.js": {
     "file": "assets/app-CXDpL9bK.js",

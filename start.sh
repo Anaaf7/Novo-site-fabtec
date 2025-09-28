@@ -9,4 +9,6 @@
  php artisan key:generate
  php artisan migrate:fresh --seed
  npm install --save-dev vite
- npm run dev
+ npm update
+ npm run dev &
+ php artisan serve

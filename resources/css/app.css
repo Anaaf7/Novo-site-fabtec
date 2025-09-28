@@ -1,3 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@font-face {
+  font-family: "inconsolata";
+  src: url("../fonts/inconsolata.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "orbitron";
+  src: url("../fonts/orbitron.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "raveo";
+  src: url("../fonts/raveo.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
